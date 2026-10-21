@@ -30,4 +30,4 @@ I focused on keeping my Python code organized and easy to understand by using me
 
 ## Conclusion
 
-Overall, CS 350 gave me a better understanding of how embedded systems work and how important it is for hardware and software to communicate properly. Working with the Raspberry Pi was challenging at times, especially when dealing with wiring problems and debugging code, but it was also a good learning experience. This course helped me improve my problem-solving skills and gave me more confidence working with technologies
+Overall, this cource gave me a better understanding of how embedded systems work and how important it is for hardware and software to communicate properly. Working with the Raspberry Pi was challenging at times, especially when dealing with wiring problems and debugging code, but it was also a good learning experience. This course helped me improve my problem-solving skills and gave me more confidence working with technologies
